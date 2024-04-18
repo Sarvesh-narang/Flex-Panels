@@ -40,19 +40,19 @@ body{
 }
 
 .panel1{
-    background-image: url(./assests/photo-1487147264018-f937fba0c817.avif);
+    background-image: url(./assets/photo-1487147264018-f937fba0c817.avif);
 }
 .panel2{
-    background-image: url(./assests/photo-1500049242364-5f500807cdd7.avif);
+    background-image: url(./assets/photo-1500049242364-5f500807cdd7.avif);
 }
 .panel3{
-    background-image: url(./assests/photo-1506126613408-eca07ce68773.avif);
+    background-image: url(./assets/photo-1506126613408-eca07ce68773.avif);
 }
 .panel4{
-    background-image: url(./assests/photo-1518495973542-4542c06a5843.avif);
+    background-image: url(./assets/photo-1518495973542-4542c06a5843.avif);
 }
 .panel5{
-    background-image: url(./assests/photo-1609537937459-9a2e947cb16c.avif);
+    background-image: url(./assets/photo-1609537937459-9a2e947cb16c.avif);
 }
 
 .panel > * {
